@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/Projects/C++/S2_P4/SingleList.h
+Student.h
+E:/Projects/C++/S2_P4/Student.h
+
+E:/Projects/C++/S2_P4/Student.h
+iostream
+-
+
+E:/Projects/C++/S2_P4/main.cpp
+iostream
+-
+Student.h
+E:/Projects/C++/S2_P4/Student.h
+SingleList.h
+E:/Projects/C++/S2_P4/SingleList.h
+

@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/muhmd/New Volume/Projects/C++/Online Library System/Book.cpp
+Book.h
+/media/muhmd/New Volume/Projects/C++/Online Library System/Book.h
+
+/media/muhmd/New Volume/Projects/C++/Online Library System/Book.h
+User.h
+/media/muhmd/New Volume/Projects/C++/Online Library System/User.h
+
+/media/muhmd/New Volume/Projects/C++/Online Library System/User.h
+iostream
+/media/muhmd/New Volume/Projects/C++/Online Library System/iostream
+
+/media/muhmd/New Volume/Projects/C++/Online Library System/main.cpp
+iostream
+-
+Book.h
+/media/muhmd/New Volume/Projects/C++/Online Library System/Book.h
+

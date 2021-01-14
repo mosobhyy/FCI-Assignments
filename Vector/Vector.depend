@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1577482641 source:d:\study\projects\c++\vector\main.cpp
+	<iostream>
+	<FciVector.h>
+	<vector>
+	<Course.h>
+	<Student.h>
+
+1577481516 d:\study\projects\c++\vector\include\fcivector.h
+	<iostream>
+
+1577481516 d:\study\projects\c++\vector\include\course.h
+	<string>
+
+1577481516 d:\study\projects\c++\vector\include\student.h
+	<FciVector.h>
+	<Course.h>
+	<string>
+
+1577481516 source:d:\study\projects\c++\vector\src\course.cpp
+	"Course.h"
+	<iostream>
+
+1577481516 source:d:\study\projects\c++\vector\src\student.cpp
+	"Student.h"
+	<iostream>
+

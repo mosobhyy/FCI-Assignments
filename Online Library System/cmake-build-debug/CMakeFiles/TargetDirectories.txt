@@ -1,0 +1,3 @@
+/media/muhmd/New Volume/Projects/C++/Online Library System/cmake-build-debug/CMakeFiles/edit_cache.dir
+/media/muhmd/New Volume/Projects/C++/Online Library System/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/media/muhmd/New Volume/Projects/C++/Online Library System/cmake-build-debug/CMakeFiles/Online_Library_System.dir

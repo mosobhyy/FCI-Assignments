@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/Projects/C++/S1_P1/List.cpp
+List.h
+E:/Projects/C++/S1_P1/List.h
+
+E:/Projects/C++/S1_P1/List.h
+iostream
+-
+
+E:/Projects/C++/S1_P1/main.cpp
+iostream
+-
+List.cpp
+E:/Projects/C++/S1_P1/List.cpp
+

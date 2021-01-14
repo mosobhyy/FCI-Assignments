@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1583369871 source:d:\projects\c++\problem 3-matrix\main.cpp
+	<iostream>
+	<Matrix.h>
+
+1583367910 d:\projects\c++\problem 3-matrix\include\matrix.h
+	<iostream>
+
+1583417575 source:d:\projects\c++\problem 3-matrix\src\matrix.cpp
+	"Matrix.h"
+	<iostream>
+
+1584196616 source:e:\projects\c++\problem 3-matrix\main.cpp
+	<iostream>
+	<Matrix.h>
+	<MatrixCalculator.h>
+
+1583625633 e:\projects\c++\problem 3-matrix\include\matrix.h
+	<iostream>
+
+1584206555 source:e:\projects\c++\problem 3-matrix\src\matrix.cpp
+	"Matrix.h"
+	<iostream>
+
+1584206652 source:e:\projects\c++\problem 3-matrix\src\matrixcalculator.cpp
+	"MatrixCalculator.h"
+	"Matrix.h"
+	<iostream>
+
+1583614252 e:\projects\c++\problem 3-matrix\include\matrixcalculator.h
+

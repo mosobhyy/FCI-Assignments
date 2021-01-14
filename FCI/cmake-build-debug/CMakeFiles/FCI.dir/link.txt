@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/FCI.dir/main.cpp.o CMakeFiles/FCI.dir/FCIIdentity.cpp.o CMakeFiles/FCI.dir/FCIStudent.cpp.o CMakeFiles/FCI.dir/FCICourse.cpp.o CMakeFiles/FCI.dir/Person.cpp.o  -o FCI 

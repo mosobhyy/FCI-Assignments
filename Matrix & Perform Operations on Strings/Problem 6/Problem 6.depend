@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1584210536 source:e:\projects\c++\problem 6\main.cpp
+	<iostream>
+	<StudentName.h>
+
+1584210646 source:e:\projects\c++\problem 6\src\studentname.cpp
+	"StudentName.h"
+	<iostream>
+	<vector>
+
+1584143729 e:\projects\c++\problem 6\include\studentname.h
+	<string>
+

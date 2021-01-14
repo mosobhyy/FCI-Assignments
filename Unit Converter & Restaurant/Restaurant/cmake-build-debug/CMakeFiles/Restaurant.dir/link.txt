@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Restaurant.dir/main.cpp.o  -o Restaurant 
