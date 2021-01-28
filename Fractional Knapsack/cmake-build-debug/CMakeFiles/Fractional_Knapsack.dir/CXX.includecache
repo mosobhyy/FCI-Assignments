@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/muhmd/New Volume/Projects/C++/Fractional Knapsack/Fractional_Knapsack.cpp
+iostream
+-
+bits/stdc++.h
+-
+

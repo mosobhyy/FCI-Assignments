@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Fractional_Knapsack.dir/Fractional_Knapsack.cpp.o  -o Fractional_Knapsack 

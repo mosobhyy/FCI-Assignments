@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/lucky_day_voucher_task.dir/lucky_day_voucher_Task.cpp.o  -o lucky_day_voucher_task 

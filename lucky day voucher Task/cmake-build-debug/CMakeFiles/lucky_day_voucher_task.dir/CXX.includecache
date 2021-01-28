@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/muhmd/New Volume/Projects/C++/lucky day voucher Task/lucky_day_voucher_Task.cpp
+iostream
+-
+bits/stdc++.h
+-
+
